@@ -24,7 +24,8 @@ This project helped me:
 ---
 
 ## 📸 Preview
-![Amazon Clone Screenshot] ! !(AmazonImage/Screenshot_4.png) ![4](AmazonImage/Screenshot_3.png)(AmazonImage/Screenshot_1.png)![2](AmazonImage/Screenshot_2.png)
+![Amazon Clone Screenshot] (AmazonImage/Screenshot_4.png) (AmazonImage/Screenshot_1.png)(AmazonImage/Screenshot_2.png)(AmazonImage/Screenshot_3.png)
+
 
 ----
 
